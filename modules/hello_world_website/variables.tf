@@ -11,3 +11,12 @@ variable "subnets_quantity" {
   type        = number
   default     = 2
 }
+variable "http_port" {
+  description = "Value of the http port"
+  type        = number
+}
+variable "ec2_instances_quantity" {
+  description = "Value of the EC2 quantity"
+  type        = number
+  default = 1
+}
