@@ -5,8 +5,8 @@ The exercise goal is a deployment of a simple "Hello World" website on AWS. This
 
 ```mermaid
 graph LR;
-    EC2-1.->Webite-1;
-    EC2-2.->Webite-2;
+    EC2-1.->Website-1;
+    EC2-2.->Website-2;
     ASG-->EC2-1;
     ASG-->EC2-2;
     ALB-->ASG;

@@ -16,7 +16,7 @@ center{
         </style>
 	</head>
 	<body>
-		<center>Hello World</center>
+		<center>Hello World!</center>
 	</body>
 </html>
 EOF
