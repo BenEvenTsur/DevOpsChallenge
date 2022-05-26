@@ -1,7 +1,7 @@
 # DevOps Challenge
 
 DevOps Challenge is an exercise designed to test DevOps skills using cloud services and IAC tools.
-The exercise goal is a deployment of a simple "Hello World" website on AWS. This project suggests a Terraform based solving.
+The exercise goal is a deployment of a simple "Hello World" website on AWS. This project suggests a Terraform based solution.
 
 ```mermaid
 graph LR;
