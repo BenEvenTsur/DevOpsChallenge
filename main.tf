@@ -13,3 +13,7 @@ provider "aws" {
   profile = "default"
   region  = "us-west-2"
 }
+
+module "hello_world_website" {
+  source = "./modules/hello_world_website"
+}
